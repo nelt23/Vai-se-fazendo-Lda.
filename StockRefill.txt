@@ -1,0 +1,7 @@
+
+1 Ferro    1.40
+1 Ferro    1.40
+3 Vidro    12.50
+4 Plastico 2.20
+4 Plastico 2.20
+4 Plastico 2.20
