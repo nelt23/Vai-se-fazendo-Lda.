@@ -1,8 +1,10 @@
 # Vai-se-fazendo-Lda.
 
-Project For College 
+Project for college 1 semester.
 
 This project was made by me for the discipline microprocessor programming (PM) and written in C.
+
+
 
 The project consists of creating a factory where we can produce cars of 5 different brands, each car needs materials and quantities for its production.
 
