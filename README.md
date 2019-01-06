@@ -2,7 +2,7 @@
 
 Project For College 
 
-This is a project made by me for the discipline microprocessor programming (PM) and written in C.
+This project was made by me for the discipline microprocessor programming (PM) and written in C.
 
 The project consists of creating a factory where we can produce cars of 5 different brands, each car needs a quantity and a type of materials to be produced.
 The production is done in 1 of the 5 stations but each station can only process 1 car each time so is possible there are 3 states that the car can be found (Waiting / Processing / Finished).
