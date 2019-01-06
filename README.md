@@ -14,6 +14,7 @@ Each station performs different processes and each car needs 3 processes to be c
 In the factory besides the option to produce cars it is possible to Show the Stock / Refill Stock / Statistics / State of the Factory and Skip time where the admin can Skip time to see the factory in operation.
 Note the production of the stations is in function of the time necessary to be complete and the cost is the most economical possible.
 At the end it is possible to save the data in files.
+I used dynamic memory in the project.
 
 
 Note Obtained in the project was 20/20
