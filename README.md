@@ -18,6 +18,7 @@ I used dynamic memory in the project.
 
 
 Note Obtained in the project was 20/20
+It took me about 60 hours to do
 
 Nuno Martins 2018
 Faculdade de Ciencias e tecnologia (FCT) da universidade nova de lisboa (UNL)
